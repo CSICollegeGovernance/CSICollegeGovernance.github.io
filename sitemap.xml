@@ -2,49 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/Mar21Meeting/index.html</loc>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/SepMeeting/index.html</loc>
     <lastmod>2021-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/5-9-president/index.html</loc>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/NovMeeting/index.html</loc>
     <lastmod>2021-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/FebMeeting-2021/index.html</loc>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/5-9-president/index.html</loc>
     <lastmod>2021-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/MayMeeting/fs-research-comm/index.html</loc>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/AprilMeeting/index.html</loc>
     <lastmod>2021-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/5-2-townhall/index.html</loc>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/5-2-townhall/index.html</loc>
     <lastmod>2021-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/AprilMeeting/index.html</loc>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/4-15-UFS/index.html</loc>
     <lastmod>2021-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/Apr21Meeting/index.html</loc>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/4-17-zoom-link/index.html</loc>
     <lastmod>2021-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/May21Meeting/index.html</loc>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/6-23-cc-xc-president/index.html</loc>
+    <lastmod>2021-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/404/index.html</loc>
+    <lastmod>2021-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/6-15-UFS-research/index.html</loc>
+    <lastmod>2021-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/Mar21Meeting/cc-chair-report/index.html</loc>
     <lastmod>2021-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -56,139 +74,13 @@
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/MayMeeting/index.html</loc>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/FebMeeting-2021/cc-exec-committee-report/index.html</loc>
     <lastmod>2021-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/OctMeeting/index.html</loc>
-    <lastmod>2021-09-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/6-15-UFS-research/index.html</loc>
-    <lastmod>2021-09-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/4-16-UFS-survey/index.html</loc>
-    <lastmod>2021-09-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/DecMeeting/index.html</loc>
-    <lastmod>2021-09-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/NovMeeting/index.html</loc>
-    <lastmod>2021-09-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/6-23-cc-xc-president/index.html</loc>
-    <lastmod>2021-09-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/5-9-CC-chair-response/index.html</loc>
-    <lastmod>2021-09-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/open-meetings-law/index.html</loc>
-    <lastmod>2021-09-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/Mar21Meeting/cc-budget-committee/index.html</loc>
-    <lastmod>2021-09-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/404/index.html</loc>
-    <lastmod>2021-09-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/6-24-budget/index.html</loc>
-    <lastmod>2021-09-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/MayMeeting/cc-budget/index.html</loc>
-    <lastmod>2021-09-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/Mar-SpecialMeeting/index.html</loc>
-    <lastmod>2021-09-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/GovernanceCrisis/index.html</loc>
-    <lastmod>2021-09-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/MayMeeting/cc-chair/index.html</loc>
-    <lastmod>2021-09-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/July21Meeting/covid-guidelines/index.html</loc>
-    <lastmod>2021-09-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/4-21-fs/index.html</loc>
-    <lastmod>2021-09-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/menu2/index.html</loc>
-    <lastmod>0001-01-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/July21Meeting/index.html</loc>
-    <lastmod>2021-09-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/Mar21Meeting/cc-chair-report/index.html</loc>
-    <lastmod>2021-09-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/menu3/index.html</loc>
-    <lastmod>2021-09-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/4-2-president-responds/index.html</loc>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/Mar21Meeting/index.html</loc>
     <lastmod>2021-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -200,61 +92,157 @@
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/4-15-UFS/index.html</loc>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/MayMeeting/cc-facilities/index.html</loc>
     <lastmod>2021-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/4-17-zoom-link/index.html</loc>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/4-16-UFS-survey/index.html</loc>
     <lastmod>2021-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/menu1/index.html</loc>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/4-29-fs-townhall/index.html</loc>
     <lastmod>2021-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/5-9-president-2/index.html</loc>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/July21Meeting/covid-guidelines/index.html</loc>
     <lastmod>2021-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/4-29-fs-townhall/index.html</loc>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/5-9-president-2/index.html</loc>
     <lastmod>2021-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/AprilMeeting/materials/index.html</loc>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/Mar-SpecialMeeting/index.html</loc>
     <lastmod>2021-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/FebMeeting-2021/cc-exec-committee-report/index.html</loc>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/DecMeeting/index.html</loc>
     <lastmod>2021-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/SepMeeting/fs-research-committee/index.html</loc>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/4-21-fs/index.html</loc>
     <lastmod>2021-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/MayMeeting/cc-facilities/index.html</loc>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/open-meetings-law/index.html</loc>
     <lastmod>2021-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/SepMeeting/index.html</loc>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/SepMeeting/fs-research-committee/index.html</loc>
+    <lastmod>2021-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/index.html</loc>
+    <lastmod>2021-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/July21Meeting/index.html</loc>
+    <lastmod>2021-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/MayMeeting/index.html</loc>
+    <lastmod>2021-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/MayMeeting/cc-chair/index.html</loc>
+    <lastmod>2021-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/OctMeeting/index.html</loc>
+    <lastmod>2021-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/5-9-CC-chair-response/index.html</loc>
+    <lastmod>2021-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/FebMeeting-2021/index.html</loc>
+    <lastmod>2021-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/AprilMeeting/materials/index.html</loc>
+    <lastmod>2021-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/MayMeeting/cc-budget/index.html</loc>
+    <lastmod>2021-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/GovernanceCrisis/index.html</loc>
+    <lastmod>2021-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/4-2-president-responds/index.html</loc>
+    <lastmod>2021-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/Apr21Meeting/index.html</loc>
+    <lastmod>2021-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/Mar21Meeting/cc-budget-committee/index.html</loc>
+    <lastmod>2021-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/May21Meeting/index.html</loc>
+    <lastmod>2021-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/MayMeeting/fs-research-comm/index.html</loc>
+    <lastmod>2021-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/CCFS/6-24-budget/index.html</loc>
     <lastmod>2021-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
