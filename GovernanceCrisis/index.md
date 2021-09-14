@@ -18,6 +18,8 @@ Agenda:
 * [UGCC votes in opposition](/CCFS/GovernanceCrisis/)
 * [Math, English, Media Culture re-express their opposition](/GovernanceCrisis/)
 * [UFS Status of the faculty committee resolution](/GovernanceCrisis/StatusoftheFaculty_ResolutionforCSI.docx)
+* [9/6/21 draft](/GovernanceCrisis/draft-9.6.21.pdf)
+* [side by side](/GovernanceCrisis/Sidebysidecomparisonof4.2021draft.pdf)
 
 ### From March 2021
 
