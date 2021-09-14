@@ -13,10 +13,11 @@ Agenda:
 
 ### Fall 2021
 
-* [A Crisis in Academic Governance](/CCFS/GovernanceCrisis/aaup.docx) -- Eerily similar activities at CSI as at 8 institutions highlighted in a recent report by the [AAUP](https://www.aaup.org/report/covid-19-and-academic-governance)
-* [General Education votes in near unanimous opposition](/CCFS/GovernanceCrisis/)
+* [A Crisis in Academic Governance](/GovernanceCrisis/aaup.docx) -- Eerily similar activities at CSI as at 8 institutions highlighted in a recent report by the [AAUP](https://www.aaup.org/report/covid-19-and-academic-governance)
+* [General Education votes in near unanimous opposition](/GovernanceCrisis/)
 * [UGCC votes in opposition](/CCFS/GovernanceCrisis/)
-* [Math, English, Media Culture re-express their opposition](/CCFS/GovernanceCrisis/)
+* [Math, English, Media Culture re-express their opposition](/GovernanceCrisis/)
+* [UFS Status of the faculty committee resolution](/GovernanceCrisis/StatusoftheFaculty_ResolutionforCSI.docx)
 
 ### From March 2021
 
