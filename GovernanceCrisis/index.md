@@ -20,6 +20,7 @@ Agenda:
 * [UFS Status of the faculty committee resolution](/GovernanceCrisis/StatusoftheFaculty_ResolutionforCSI.docx)
 * [9/6/21 draft](/GovernanceCrisis/draft-9.6.21.pdf)
 * [side by side](/GovernanceCrisis/Sidebysidecomparisonof4.2021draft.pdf)
+* [3/21 draft](/GovernanceCrisis](CSI-proposed-plan-3-3-2021.pdf)
 
 ### From March 2021
 
