@@ -21,6 +21,7 @@ Agenda:
 * [9/6/21 draft](/GovernanceCrisis/draft-9.6.21.pdf)
 * [side by side](/GovernanceCrisis/Sidebysidecomparisonof4.2021draft.pdf)
 * [3/21 draft](/GovernanceCrisis](CSI-proposed-plan-3-3-2021.pdf)
+* [Board approved governance plan (2018)](/GovernanceCrisis/current-governance-5-9-2018.pdf)
 
 ### From March 2021
 
