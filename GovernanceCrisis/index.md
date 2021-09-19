@@ -5,9 +5,28 @@ September 21st, 2021 Special Meeting of the College Council
 
 Agenda:
 
-* Introductions
+* John Verzani, [Introductions](/GovernanceCrisis/presentation.pptx)
 * Comments by Neal Hutchens, professor of Higher Education at the University of Mississippi and a member of the AAUP Litigation Committee.
-* Town Hall style discussion
+
+Brief remarks by:
+
+* Jane Marcus-Delgado Chair, Faculty Senate
+* Mary Murphy, Suzy Shepardson HEO Steering Committee
+* Peter Galati, Adjunct representative to Faculty Senate
+* George Sanchez, PSC Chair
+
+----
+
+* Town Hall style discussion.
+
+
+To allow opportunity for all to speak, we will limit speakers to 3
+minutes with exceptions granted by the chair, as deemed
+appropriate. We suggest 2 minutes or less, if possible.
+
+To proceed  in an orderly  manner, interested speakers should  use the
+raise hand feature of Zoom, and will be recognized by the chair before
+speaking.
 
 ## Supporting Documents
 
