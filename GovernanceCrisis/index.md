@@ -30,6 +30,8 @@ speaking.
 
 ## Supporting Documents
 
+* [Professor Gerry Milligan's statement](/GovernanceCrisis/gerry-milligan)
+
 ### Fall 2021
 
 * [A Crisis in Academic Governance](/GovernanceCrisis/aaup.docx) -- Eerily similar activities at CSI as at 8 institutions highlighted in a recent report by the [AAUP](https://www.aaup.org/report/covid-19-and-academic-governance)
