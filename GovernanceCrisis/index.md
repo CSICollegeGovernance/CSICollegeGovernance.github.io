@@ -30,7 +30,7 @@ speaking.
 
 ## Supporting Documents
 
-* [Professor Gerry Milligan's statement](/GovernanceCrisis/gerry-milligan)
+* [Professor Gerry Milligans statement](/GovernanceCrisis/gerry-milligan)
 
 ### Fall 2021
 
