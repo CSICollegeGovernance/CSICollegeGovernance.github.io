@@ -10,10 +10,11 @@ Agenda:
 
 Brief remarks by:
 
+* George Sanchez, PSC Chair
 * Jane Marcus-Delgado Chair, Faculty Senate
 * Mary Murphy, Suzy Shepardson HEO Steering Committee
 * Peter Galati, Adjunct representative to Faculty Senate
-* George Sanchez, PSC Chair
+* Lee Papa and Cynthia Chris, Chair's proposal
 
 ----
 
