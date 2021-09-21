@@ -30,6 +30,10 @@ To proceed  in an orderly  manner, interested speakers should  use the
 raise hand feature of Zoom, and will be recognized by the chair before
 speaking.
 
+* UPDATE: 281 different people attended this special session. Thanks to all for coming and participating
+
+* UPDATE: at the end of the town hall a straw poll found of 107 votes found **1** in favor, **4** abstain, and **102** opposed.
+
 ## Supporting Documents
 
 ### Fall 2021
