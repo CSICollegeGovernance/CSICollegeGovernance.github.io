@@ -24,4 +24,3 @@ Thanks for your attention and time,
 
 John Verzani
 Chair, College Council
-

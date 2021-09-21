@@ -10,8 +10,8 @@ Agenda:
 
 Brief remarks by:
 
-* George Sanchez, PSC Chair
 * Jane Marcus-Delgado Chair, Faculty Senate
+* George Sanchez, PSC Chair
 * Mary Murphy, Suzy Shepardson HEO Steering Committee
 * Peter Galati, Adjunct representative to Faculty Senate
 * Lee Papa and Cynthia Chris, Chair's proposal
@@ -30,9 +30,9 @@ To proceed  in an orderly  manner, interested speakers should  use the
 raise hand feature of Zoom, and will be recognized by the chair before
 speaking.
 
-* UPDATE: 281 different people attended this special session. Thanks to all for coming and participating
+* UPDATE: 281 different people attended this special session. **Thanks to all for coming and participating**
 
-* UPDATE: at the end of the town hall a straw poll found of 107 votes found **1** in favor, **4** abstain, and **102** opposed.
+* UPDATE: at the end of the town hall a straw poll found of 107 votes found **1** in favor, **4** abstain, and **102** opposed. (This 1% in favor is *totally consistent* with the straw poll in March, the letter writing campaign to the board, and the president-sponsored town hall in April. This proposal has widespread opposition, which needs to be reflected in the referendum vote.)
 
 ## Supporting Documents
 
