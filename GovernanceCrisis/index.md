@@ -38,7 +38,7 @@ speaking.
 * [A Crisis in Academic Governance](/GovernanceCrisis/aaup.docx) -- Eerily similar activities at CSI as at 8 institutions highlighted in a recent report by the [AAUP](https://www.aaup.org/report/covid-19-and-academic-governance)
 * [General Education votes in near unanimous opposition](/GovernanceCrisis/)
 * [UGCC votes in opposition](/CCFS/GovernanceCrisis/)
-* [Math, English, Media Culture re-express their opposition](/GovernanceCrisis/)
+* Math, English, Media Culture, [Social Work](/GovernanceCrisis/SocialWorkAffirmation.md),... re-express their opposition
 * [UFS Status of the faculty committee resolution](/GovernanceCrisis/StatusoftheFaculty_ResolutionforCSI.docx)
 * [9/6/21 draft](/GovernanceCrisis/draft-9.6.21.pdf)
 * [side by side](/GovernanceCrisis/Sidebysidecomparisonof4.2021draft.pdf)
