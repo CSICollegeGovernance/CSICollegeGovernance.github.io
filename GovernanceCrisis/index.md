@@ -15,6 +15,7 @@ Brief remarks by:
 * Mary Murphy, Suzy Shepardson HEO Steering Committee
 * Peter Galati, Adjunct representative to Faculty Senate
 * Lee Papa and Cynthia Chris, Chair's proposal
+* Michael Ivany, Student Government President
 
 ----
 
