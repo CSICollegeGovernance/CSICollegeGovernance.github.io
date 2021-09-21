@@ -31,6 +31,7 @@ speaking.
 ## Supporting Documents
 
 * [Professor Gerry Milligans statement](/GovernanceCrisis/gerry-milligan)
+* [Letter from Chairs opposing the proposal](/GovernanceCrisis/DepartmentChairsStatementonProposedGovernancePlanSept21_2021.docx)
 
 ### Fall 2021
 
