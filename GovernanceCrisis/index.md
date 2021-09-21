@@ -30,10 +30,9 @@ speaking.
 
 ## Supporting Documents
 
-* [Professor Gerry Milligans statement](/GovernanceCrisis/gerry-milligan)
-* [Letter from Chairs opposing the proposal](/GovernanceCrisis/DepartmentChairsStatementonProposedGovernancePlanSept21_2021.docx)
-
 ### Fall 2021
+
+* [Letter from Chairs opposing the proposal](/GovernanceCrisis/DepartmentChairsStatementonProposedGovernancePlanSept21_2021.docx)
 
 * [A Crisis in Academic Governance](/GovernanceCrisis/aaup.docx) -- Eerily similar activities at CSI as at 8 institutions highlighted in a recent report by the [AAUP](https://www.aaup.org/report/covid-19-and-academic-governance)
 * [General Education votes in near unanimous opposition](/GovernanceCrisis/)
@@ -45,6 +44,8 @@ speaking.
 * [side by side](/GovernanceCrisis/Sidebysidecomparisonof4.2021draft.pdf)
 * [3/21 draft](/GovernanceCrisis/CSI-proposed-plan-3-3-2021.pdf)
 * [Board approved governance plan (2018)](/GovernanceCrisis/current-governance-5-9-2018.pdf)
+
+* [Professor Gerry Milligans statement](/GovernanceCrisis/gerry-milligan)
 
 ### From March 2021
 
