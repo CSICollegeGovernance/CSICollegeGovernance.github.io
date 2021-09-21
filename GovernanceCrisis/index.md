@@ -48,6 +48,7 @@ speaking.
 * [Board approved governance plan (2018)](/GovernanceCrisis/current-governance-5-9-2018.pdf)
 
 * [Professor Gerry Milligans statement](/GovernanceCrisis/gerry-milligan)
+* [Professor Emeritus Sandi Coopers statement](/GovernanceCrisis/sandi-cooper)
 
 ### From March 2021
 
