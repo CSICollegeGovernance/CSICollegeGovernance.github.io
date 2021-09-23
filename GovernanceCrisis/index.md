@@ -38,6 +38,7 @@ speaking.
 
 ### Fall 2021
 
+* [How to find your EMPLID](/GovernanceCrisis/How-to-Find-Your-CUNY-Employee-ID_revised.pdf)
 * [Letter to adjuncts from College Council Chair](/GovernanceCrisis/adjunct-letter)
 * [Letter from Chairs opposing the proposal](/GovernanceCrisis/DepartmentChairsStatementonProposedGovernancePlanSept21_2021.docx)
 
