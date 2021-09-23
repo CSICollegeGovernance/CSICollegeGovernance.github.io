@@ -1,7 +1,4 @@
-Dear Chairs, Program Coordinators, and others,
-
-I write asking your help in circulating the following to any adjunct faculty working through your department. Thank you!
-
+Dear Adjunct Faculty,
 
 The President of the College of Staten Island is holding a referendum on a governance plan of his design between 9/27/2021 and 10/1/2021. This plan is overwhelmingly unpopular, if the results of a straw poll taken during a special College Council session on 9/21 are an indicator: only 1 of 107 anonymous respondents was in support.
 
@@ -9,9 +6,9 @@ This plan completely removes *completely* adjunct representation in the governan
 
 Peter Galati, one of the elected representatives, said at the town hall:
 
-You know I am unable to support this governance plan for the simple fact that adjuncts no longer have a voice. Adjuncts play a critical role in our college campus from classrooms to meeting with our students teaching our students, they play a critical role.
+> You know I am unable to support this governance plan for the simple fact that adjuncts no longer have a voice. Adjuncts play a critical role in our college campus from classrooms to meeting with our students teaching our students, they play a critical role.
 
-[cf. 52:52 of the recording at https://us02web.zoom.us/rec/share/1479DUbQdB5rGOxFZgLRxPJktHpyFeSQrME9HdW1Hhm6awb7HKd4M6ik-b5tTKAj.XIS4fdtYP7V3oSJz?startTime=1632248701000 ]
+(cf. 52:52 of the [recording](https://us02web.zoom.us/rec/share/1479DUbQdB5rGOxFZgLRxPJktHpyFeSQrME9HdW1Hhm6awb7HKd4M6ik-b5tTKAj.XIS4fdtYP7V3oSJz?startTime=1632248701000))
 
 I echo Peter's words. The new plan not only disenfranchises adjunct faculty, but also the professional staff, the full-time faculty, and the students. Only administration gains vote and voice. In addition, the many committees tasked with the issues of college organization, institutional planning, and budget are simply abolished. An outside evaluation of the president's proposed plan by the guest speaker at the special session, Neal Hutchens, professor of Higher Education at the University of Mississippi, basically called it a TAKEOVER.
 
