@@ -38,7 +38,7 @@ speaking.
 
 ### Fall 2021
 
-* [Letter to adjuncts from College Council Chair](/GovernanceCrisis/adjunct-letter.tex)
+* [Letter to adjuncts from College Council Chair](/GovernanceCrisis/adjunct-letter)
 * [Letter from Chairs opposing the proposal](/GovernanceCrisis/DepartmentChairsStatementonProposedGovernancePlanSept21_2021.docx)
 
 * [A Crisis in Academic Governance](/GovernanceCrisis/aaup.docx) -- Eerily similar activities at CSI as at 8 institutions highlighted in a recent report by the [AAUP](https://www.aaup.org/report/covid-19-and-academic-governance)
