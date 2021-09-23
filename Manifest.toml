@@ -42,9 +42,9 @@ uuid = "7b1f6079-737a-58dc-b8bc-7a2ca5c1b5ee"
 
 [[Franklin]]
 deps = ["Dates", "DelimitedFiles", "DocStringExtensions", "ExprTools", "FranklinTemplates", "HTTP", "Literate", "LiveServer", "Logging", "Markdown", "NodeJS", "OrderedCollections", "Pkg", "REPL", "Random"]
-git-tree-sha1 = "7d28078d6956f9529d59a297864ef5ec3850ab4b"
+git-tree-sha1 = "54ec10c784a54e7b0a7b85c27f6516be5c9792cd"
 uuid = "713c75ef-9fc9-4b05-94a9-213340da978e"
-version = "0.10.56"
+version = "0.10.57"
 
 [[FranklinTemplates]]
 deps = ["LiveServer"]
@@ -150,9 +150,9 @@ version = "1.4.1"
 
 [[Parsers]]
 deps = ["Dates"]
-git-tree-sha1 = "438d35d2d95ae2c5e8780b330592b6de8494e779"
+git-tree-sha1 = "9d8c00ef7a8d110787ff6f170579846f776133a9"
 uuid = "69de0a69-1ddd-5017-9359-2bf0b02dc9f0"
-version = "2.0.3"
+version = "2.0.4"
 
 [[Pkg]]
 deps = ["Artifacts", "Dates", "Downloads", "LibGit2", "Libdl", "Logging", "Markdown", "Printf", "REPL", "Random", "SHA", "Serialization", "TOML", "Tar", "UUIDs", "p7zip_jll"]
