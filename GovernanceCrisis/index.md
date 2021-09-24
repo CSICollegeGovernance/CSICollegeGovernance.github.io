@@ -40,6 +40,11 @@ speaking.
 
 * [How to find your EMPLID](/GovernanceCrisis/How-to-Find-Your-CUNY-Employee-ID_revised.pdf)
 * [Letter to adjuncts from College Council Chair](/GovernanceCrisis/adjunct-letter)
+
+* [Watch the Special Session of the College Council of 9/21](https://us02web.zoom.us/rec/share/oopAiiGnU2lPZcxdWsY9gmbDv9VgnMSQc0mD9KaXK6IUd0tfQ8VP-SQsdrOVwGNQ.v2AGu5Nc8liJphea)
+
+* [UFS Status of the faculty committee resolution](/GovernanceCrisis/StatusoftheFaculty_ResolutionforCSI.docx) This was endorsed on 9/24 by the committee of Faculty Governance leaders in CUNY. It will be brought to the floor of the UFS Plenary 9/28 for (likely) approval.
+
 * [Letter from Chairs opposing the proposal](/GovernanceCrisis/DepartmentChairsStatementonProposedGovernancePlanSept21_2021.docx)
 
 * [A Crisis in Academic Governance](/GovernanceCrisis/aaup.docx) -- Eerily similar activities at CSI as at 8 institutions highlighted in a recent report by the [AAUP](https://www.aaup.org/report/covid-19-and-academic-governance)
@@ -47,7 +52,6 @@ speaking.
 * [UGCC votes in opposition](/CCFS/GovernanceCrisis/)
 * Math, English, Media Culture, [Social Work](/GovernanceCrisis/SocialWorkAffirmation),... re-express their opposition
 * [The PSC Exec weighs in -- vote NO](/GovernanceCrisis/psc)
-* [UFS Status of the faculty committee resolution](/GovernanceCrisis/StatusoftheFaculty_ResolutionforCSI.docx)
 * [9/6/21 draft](/GovernanceCrisis/draft-9.6.21.pdf)
 * [side by side](/GovernanceCrisis/Sidebysidecomparisonof4.2021draft.pdf)
 * [3/21 draft](/GovernanceCrisis/CSI-proposed-plan-3-3-2021.pdf)
