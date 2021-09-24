@@ -43,7 +43,7 @@ speaking.
 
 * [Watch the Special Session of the College Council of 9/21](https://us02web.zoom.us/rec/share/oopAiiGnU2lPZcxdWsY9gmbDv9VgnMSQc0mD9KaXK6IUd0tfQ8VP-SQsdrOVwGNQ.v2AGu5Nc8liJphea)
 
-* [UFS Status of the faculty committee resolution](/GovernanceCrisis/StatusoftheFaculty_ResolutionforCSI.docx) This was endorsed on 9/24 by the committee of Faculty Governance leaders in CUNY. It will be brought to the floor of the UFS Plenary 9/28 for (likely) approval.
+* [UFS Status of the Faculty Committee resolution](/GovernanceCrisis/StatusOfTheFaculty-resoultion-9-2021.pdf) This was endorsed on 9/24 by the committee of Faculty Governance leaders in CUNY. It will be brought to the floor of the UFS Plenary 9/28 for (likely) approval.
 
 * [Letter from Chairs opposing the proposal](/GovernanceCrisis/DepartmentChairsStatementonProposedGovernancePlanSept21_2021.docx)
 
