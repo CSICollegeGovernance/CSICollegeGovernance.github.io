@@ -1,4 +1,11 @@
 # A Crisis in Academic Governance
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/CSI_United.svg?style=social&label=Follow%20%40CSI_United)](https://twitter.com/CSI_United)
+
+
+[CSI United Webstite](https://www.csiunited.com) (coming soon)
+
+
+----
 
 September 21st, 2021 Special Meeting of the College Council
 
@@ -64,7 +71,7 @@ speaking.
 
 * [CSI Governance Plans, history and context presentation, Cindy Wong](/CCFS/Mar-SpecialMeeting/history-governance.pptx)
 * [Comparison of Governance Plans, presentation, John Verzani](/CCFS/Mar-SpecialMeeting/Proposed-changes.pptx)
-
+* [CSI's failing admin](https://www.psc-cuny.org/clarion/february-2021/csi%E2%80%99s-failing-admin)
 
 ### Statements by departments, committees, and other entitities
 
