@@ -3,7 +3,7 @@
 
 ## Membership
 
-The budget committee had a modified membership from last year with the addition of Wilma Jones who replaced Gerry Milligan. Other members are Katie Cumiskey, George Sanchez, Veronica DeMiglio, and John Verzani
+The budget committee had a modified membership from last year with the addition of Wilma Jones who replaced Gerry Milligan. Other members are Katie Cumiskey, George Sanchez, Veronica DiMeglio, and John Verzani
 
 
 ## Meetings
@@ -28,7 +28,7 @@ The Budget Committee met with AVP Serrano and Provost Parrish on September 28 to
 
 Since the meeting of the 3rd, the model had been adjusted:
 
-* aggressive claim on federal funds moved monies into FY21 which carry over
+* aggressive claims on federal funds moved monies into FY21 which carry over
 * a modest 0.5% increase in tuition dollars was projected (essentially a 0.5% increase in enrollment from F21 numbers)
 * significant savings in PS and OTPS driven primarily by an expectation that the rate of separation by FT personnel (~24/year) would continue over the life of the plan. This would mean that by FY24 there would be ~72 fewer FT personnel.
 
