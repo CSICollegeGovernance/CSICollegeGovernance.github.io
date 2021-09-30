@@ -32,7 +32,7 @@ We asked about campus leeway given CUNY recommendations.
 
 * The proposed governance plan.
 
-The College Council re-iterated its recommendation that this proposed referendum be dropped. It restated that the results of the referendum should be respected. There was a direct question as to whether that would be done. The response was not equivocal, as it should be.
+The College Council re-iterated its recommendation that this proposed referendum be dropped. It restated that the results of the referendum should be respected. There was a direct question as to whether that would be done. The response was not unequivocal, as it should be.
 
 It was stated by the College Council Chair that the results will be overwhelmingly a "NO" and that the results will be embarrassing.
 
