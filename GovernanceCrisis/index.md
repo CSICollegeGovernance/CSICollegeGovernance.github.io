@@ -1,4 +1,25 @@
 # A Crisis in Academic Governance
+
+## Press
+
+* [Chronicle of Higher Education](https://www.chronicle.com/article/a-college-president-says-he-wants-to-improve-governance-the-faculty-says-he-wants-to-destroy-it)
+
+A College President Says He Wants to Improve Governance. The Faculty Says He Wants to Destroy It. By Megan Zahneis
+
+
+
+
+* [The Chief Leader](https://thechiefleader.com/news/news_of_the_week/plan-to-diminish-faculty-power-at-college-of-staten-island-rejected/article_f2587130-2794-11ec-ad8b-67057df13758.html)
+
+Plan to Diminish Faculty Power At College of Staten Island Rejected
+By CRYSTAL LEWIS
+
+
+##
+
+
+
+
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/CSI_United.svg?style=social&label=Follow%20%40CSI_United)](https://twitter.com/CSI_United)
 
 
@@ -8,6 +29,8 @@
 * [NYC AAUP letter to Board Chair, Chancellor, and President Fritz](/GovernanceCrisis/NYSC-AAUP-CSI-governance-letter-9-29-21.pdf)
 
 * [UFS Plenary moves to endorse Resolution of the Status of the Faculty Committee](/GovernanceCrisis/Resolution-Nature-of-Shared-Governance-at-the-College-of-Staten-Island.pdf)
+
+
 ----
 
 September 21st, 2021 Special Meeting of the College Council
