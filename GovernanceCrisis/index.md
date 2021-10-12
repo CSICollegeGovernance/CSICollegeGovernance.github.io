@@ -15,10 +15,23 @@ Plan to Diminish Faculty Power At College of Staten Island Rejected
 By CRYSTAL LEWIS
 
 
+## Write to the board
+
+* [Instructions to submit testimony](/GovernanceCrisis/MBHPHNotice1021.pdf)
+
+Written testimony will also be accepted. Please note that we are requiring that all written testimony be provided in an accessible format, which is a Word document.
+
+Kindly provide your testimony via Dropbox at
+[https://www.dropbox.com/request/9DMRkyqEy9OdYkCiZ6we](https://www.dropbox.com/request/9DMRkyqEy9OdYkCiZ6we)
+until 6:00 p.m. on Thursday, October 14, 2021.
+
+All written testimony and the video compilation can also be found on the Board of Trustees website at [www.cuny.edu/about/trustees](www.cuny.edu/about/trustees) and will be provided to the Board of Trustees as well as the Chancellery.
+
+* [A letter template for CSI stakeholders](/GovernanceCrisis/board-letter-csi.docx)
+
+* [A letter template for concerned members of the CUNY Community](/GovernanceCrisis/board-letter-cuny.docx)
+
 ##
-
-
-
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/CSI_United.svg?style=social&label=Follow%20%40CSI_United)](https://twitter.com/CSI_United)
 
