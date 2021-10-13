@@ -36,7 +36,7 @@ All written testimony and the video compilation can also be found on the Board o
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/CSI_United.svg?style=social&label=Follow%20%40CSI_United)](https://twitter.com/CSI_United)
 
 
-[CSI United Webstite](https://www.csiunited.com) (coming soon)
+[CSI United Website](https://www.csiunited.com)
 
 
 * [NYC AAUP letter to Board Chair, Chancellor, and President Fritz](/GovernanceCrisis/NYSC-AAUP-CSI-governance-letter-9-29-21.pdf)
