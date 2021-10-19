@@ -15,6 +15,23 @@ Plan to Diminish Faculty Power At College of Staten Island Rejected
 By CRYSTAL LEWIS
 
 
+## News
+
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/CSI_United.svg?style=social&label=Follow%20%40CSI_United)](https://twitter.com/CSI_United)
+
+
+[CSI United Website](https://www.csiunited.com)
+
+
+* [Medgar Evers Faculty Senate endorses UFS resolution](/GovernanceCrisis/MEC-Resolution-on-the-Nature-of-Shared-Governance-at-the-College-of-Staten-Island-MECfinal.pdf) On October 19, the MEC Faculty Senate passed a resolution in support of CSI without dissent
+
+* [NYC AAUP letter to Board Chair, Chancellor, and President Fritz](/GovernanceCrisis/NYSC-AAUP-CSI-governance-letter-9-29-21.pdf)
+
+* [UFS Plenary moves to endorse Resolution of the Status of the Faculty Committee](/GovernanceCrisis/Resolution-Nature-of-Shared-Governance-at-the-College-of-Staten-Island.pdf)
+
+
+
+
 ## Write to the board
 
 * [Instructions to submit testimony](/GovernanceCrisis/MBHPHNotice1021.pdf)
@@ -30,18 +47,6 @@ All written testimony and the video compilation can also be found on the Board o
 * [A letter template for CSI stakeholders](/GovernanceCrisis/board-letter-csi.docx)
 
 * [A letter template for concerned members of the CUNY Community](/GovernanceCrisis/board-letter-cuny.docx)
-
-##
-
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/CSI_United.svg?style=social&label=Follow%20%40CSI_United)](https://twitter.com/CSI_United)
-
-
-[CSI United Website](https://www.csiunited.com)
-
-
-* [NYC AAUP letter to Board Chair, Chancellor, and President Fritz](/GovernanceCrisis/NYSC-AAUP-CSI-governance-letter-9-29-21.pdf)
-
-* [UFS Plenary moves to endorse Resolution of the Status of the Faculty Committee](/GovernanceCrisis/Resolution-Nature-of-Shared-Governance-at-the-College-of-Staten-Island.pdf)
 
 
 ----
