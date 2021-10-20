@@ -15,6 +15,6 @@ October 21, 2021
 
 ## College Council
 
-* [CC October Agenda](/CCFS/Oct2021Meeting/)
-* [CC September minutes](/CCFS/Oct2021Meeting/)
+* [CC October Agenda](/CCFS/Oct2021Meeting/cc-agenda.docx)
+* [CC September minutes](/CCFS/Oct2021Meeting/cc-draft-minutes.docx)
 * [CC Chair's report](/CCFS/Oct2021Meeting/cc-chair-report)
