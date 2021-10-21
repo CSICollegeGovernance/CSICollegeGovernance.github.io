@@ -15,9 +15,9 @@ October 21, 2021
 * [FS October Curriculum](/CCFS/Oct2021Meeting/fs-curriculum.docx)
 
 
-
 ## College Council
 
 * [CC October Agenda](/CCFS/Oct2021Meeting/cc-agenda.docx)
 * [CC September minutes](/CCFS/Oct2021Meeting/cc-draft-minutes.docx)
 * [CC Chair's report](/CCFS/Oct2021Meeting/cc-chair-report)
+* [CC Center for Global Engagement Report](/CCFS/Oct2021Meeting/cc-cge-report.pdf)
