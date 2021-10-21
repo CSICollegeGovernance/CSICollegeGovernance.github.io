@@ -4,6 +4,8 @@ October 21, 2021
 
 2:30PM - 4:30PM
 
+[https://csicollegegovernance.github.io/CCFS/Oct2021Meeting/](https://csicollegegovernance.github.io/CCFS/Oct2021Meeting/)
+
 ## Faculty Senate
 
 
