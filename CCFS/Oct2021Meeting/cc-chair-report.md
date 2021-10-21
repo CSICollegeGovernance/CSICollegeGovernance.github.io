@@ -38,7 +38,7 @@ We were informed that
 * this was viewed as just growing then shrinking
 * When asked if IPC would be the place for the conversation to occur, we we told Academic Affairs
 * decisions can be reviewed should the CUNY budget request come through
-* There was discussion of identify8ing smaller and larger programs.
+* There was discussion of identifying smaller and larger programs.
 * It was **re-emphasized** that there is a need to have an academic plan and vision and not just a desire to cut payroll
 
 
