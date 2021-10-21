@@ -22,6 +22,7 @@ By CRYSTAL LEWIS
 
 [CSI United Website](https://www.csiunited.com)
 
+* [CUNY FGL letter to members of the board (10/20 draft)](/GovernanceCrisis/FGL-draft-letters.docx)
 
 * [Medgar Evers Faculty Senate endorses UFS resolution](/GovernanceCrisis/MEC-Resolution-on-the-Nature-of-Shared-Governance-at-the-College-of-Staten-Island-MECfinal.pdf) On October 19, the MEC Faculty Senate passed a resolution in support of CSI without dissent
 
