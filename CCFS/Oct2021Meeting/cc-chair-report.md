@@ -132,3 +132,13 @@ Then the discussion devolved.
 In a recent letter to the board, I mentioned New York Times Opinion writer Professor John McWhorter who wrote recently of a classic analysis of effective communication: it is founded in being **informative**, **truthful**, **relevant**, and **clear**.
 
 I would hope we as a community can return to following these steps, but we aren't there yet.
+
+
+----
+
+# Questions?
+
+
+> What is the 1N building status?
+
+Since the past storms, reconstruction on the lower level has been ongoing and we are working remotely but would appreciate a building update: on the air quality and building structure security, and a projected timeline --- for those who would like to return to their 2nd floor offices.

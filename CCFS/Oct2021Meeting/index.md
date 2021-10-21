@@ -9,6 +9,7 @@ October 21, 2021
 
 * [FS October Agenda](/CCFS/Oct2021Meeting/fs-agenda.docx)
 * [FS September Minutes](/CCFS/Oct2021Meeting/fs-minutes.docx)
+* [FS Chair's Report](/CCFS/Oct2021Meeting/fs-chair-report)
 * [FS October Curriculum](/CCFS/Oct2021Meeting/fs-curriculum.docx)
 
 
