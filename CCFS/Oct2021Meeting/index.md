@@ -6,6 +6,8 @@ October 21, 2021
 
 [https://csicollegegovernance.github.io/CCFS/Oct2021Meeting/](https://csicollegegovernance.github.io/CCFS/Oct2021Meeting/)
 
+[Zoom recording](https://us02web.zoom.us/rec/share/ASXCsC6TnvSAcSRrc7Z1IV6EeRCda1IhRF-0jTh-uKjfEqmLCmqE5c1jaiv28vAO.tzPCpCMK4B-9wBWf)
+
 ## Faculty Senate
 
 
@@ -21,3 +23,4 @@ October 21, 2021
 * [CC September minutes](/CCFS/Oct2021Meeting/cc-draft-minutes.docx)
 * [CC Chair's report](/CCFS/Oct2021Meeting/cc-chair-report)
 * [CC Center for Global Engagement Report](/CCFS/Oct2021Meeting/cc-cge-report.pdf)
+* [CC President's report](/CCFS/Oct2021Meeting/cc-presidents-report.pdf)
