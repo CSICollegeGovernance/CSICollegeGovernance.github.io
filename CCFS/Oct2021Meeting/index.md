@@ -23,4 +23,4 @@ October 21, 2021
 * [CC September minutes](/CCFS/Oct2021Meeting/cc-draft-minutes.docx)
 * [CC Chair's report](/CCFS/Oct2021Meeting/cc-chair-report)
 * [CC Center for Global Engagement Report](/CCFS/Oct2021Meeting/cc-cge-report.pdf)
-* [CC President's report](/CCFS/Oct2021Meeting/cc-presidents-report.pdf)
+* [CC President's report](/CCFS/Oct2021Meeting/cc-president-report.pdf)
