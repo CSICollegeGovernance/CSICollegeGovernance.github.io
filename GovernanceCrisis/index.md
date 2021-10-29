@@ -22,6 +22,8 @@ By CRYSTAL LEWIS
 
 [CSI United Website](https://www.csiunited.com)
 
+* [City College Faculty Senate Resolution in support of governance (10/21)](21-102221-CCNY-FS-Plenary-Meeting-102121-Resolution-Shared-Gov-CSI-Gov-Plan-Approved)
+
 * [CUNY FGL letter to members of the board (10/20 draft)](/GovernanceCrisis/FGL-letter.docx)
 
 * [Medgar Evers Faculty Senate endorses UFS resolution](/GovernanceCrisis/MEC-Resolution-on-the-Nature-of-Shared-Governance-at-the-College-of-Staten-Island-MECfinal.pdf) On October 19, the MEC Faculty Senate passed a resolution in support of CSI without dissent
