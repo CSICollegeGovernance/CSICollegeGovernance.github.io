@@ -22,7 +22,7 @@ By CRYSTAL LEWIS
 
 [CSI United Website](https://www.csiunited.com)
 
-* [City College Faculty Senate Resolution in support of governance (10/21)](21-102221-CCNY-FS-Plenary-Meeting-102121-Resolution-Shared-Gov-CSI-Gov-Plan-Approved)
+* [City College Faculty Senate Resolution in support of governance (10/21)](21-102221-CCNY-FS-Plenary-Meeting-102121-Resolution-Shared-Gov-CSI-Gov-Plan-Approved.pdf)
 
 * [CUNY FGL letter to members of the board (10/20 draft)](/GovernanceCrisis/FGL-letter.docx)
 
