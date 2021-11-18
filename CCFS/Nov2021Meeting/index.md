@@ -19,6 +19,6 @@ November 18, 2021
 
 * [CC: Agenda](/CCFS/Nov2021Meeting/cc-agenda.docx)
 * [CC: Minutes](/CCFS/Nov2021Meeting/cc-draft-minutes.docx)
-* [CC: Minutes](/CCFS/Nov2021Meeting/cc-minutes-9-21.docx)
+* [CC: 9-21 Minutes](/CCFS/Nov2021Meeting/cc-minutes-9-21.docx)
 * [CC: Chair's report](/CCFS/Nov2021Meeting/cc-chair-report)
 * [CC: Holmes resolution](/CCFS/Nov2021Meeting/cc-holmes.docx)
