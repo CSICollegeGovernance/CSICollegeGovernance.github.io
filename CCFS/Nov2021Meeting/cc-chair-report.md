@@ -10,7 +10,7 @@ The College Council Executive Committee met with the President and Provost on No
 
 We followed with comments about finances
 
-* The college had anticipated reporting hefty balances for the closeout of FY21. This was due to use of federal funds. However, CUNY did not approve of this, and instead the college shows an end-of-year (FY21) CUTRA balance of -3.309M. It was emphasized that this was an accounting difference, not a substantive one.
+* The college had anticipated reporting hefty balances for the closeout of FY21. This was due to use of federal funds. However, CUNY did not approve of this, and instead the college shows an end-of-year (FY21) CUTRA balance of -3.309M. [This number is wrong; there was 3.309 of stimulus funds for revenue loss appied, leaving a 59L CUTRA balance/] It was emphasized that this was an accounting difference, not a substantive one.
 
 * More student stimulus checks will be going out very soon. The college is hopeful that students will pay off outstanding balances and expects this to be facilitated through the web interfaces the students use.
 
