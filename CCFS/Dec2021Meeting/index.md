@@ -18,7 +18,8 @@ December 16, 2021
 * [FS: Agenda](/CCFS/Dec2021Meeting/fs-agenda.docx)
 * [FS: Minutes](/CCFS/Dec2021Meeting/fs-draft-minutes.docx)
 * [FS: Curriculum](/CCFS/Dec2021Meeting/fs-curriculum.docx)
-* [FS: Course and Standing](/CCFS/Dec2021Meeting/fs-course-standing.docx)
 
-* [FS: UFS Report](/CCFS/Dec2021Meeting/fs-ufs-report.md)
-* [FS: UFS budget resolution](/CCFS/Dec2021Meeting/fs-ufs-budget-resolution.pdf
+----
+
+* [FS: UFS+FGL Report](/CCFS/Dec2021Meeting/fs-ufs-report)
+* [FS: UFS budget resolution](/CCFS/Dec2021Meeting/fs-ufs-budget-resolution.pdf)

@@ -1,5 +1,6 @@
 Meetings of the College Council and Faculty Senate
 
+* [December 16, 2021](/CCFS/Dec2021Meeting/)
 * [November 18, 2021](/CCFS/Nov2021Meeting)
 * [October 21, 2021](/CCFS/Oct2021Meeting)
 * [September 2021](/CCFS/Sep2021Meeting)
