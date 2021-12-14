@@ -11,7 +11,6 @@ November 18, 2021
 * [FS: Agenda](/CCFS/Nov2021Meeting/fs-agenda.docx)
 * [FS: Minutes](/CCFS/Nov2021Meeting/fs-draft-minutes.docx)
 * [FS: Revise minutes](/CCFS/Nov2021Meeting/fs-revised-minutes.docx)
-* [FS: Chair's Report](/CCFS/Nov2021Meeting/fs-chair-report)
 * [FS: Curriculum](/CCFS/Nov2021Meeting/fs-curriculum.docx)
 * [FS: Course and Standing](/CCFS/Nov2021Meeting/fs-course-standing.docx)
 
