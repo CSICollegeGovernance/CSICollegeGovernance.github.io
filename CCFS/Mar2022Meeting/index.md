@@ -22,4 +22,4 @@ Faculty Senate to go first.
 * [CC: Chair's report](/CCFS/Mar2022Meeting/cc-chair-report)
 * [CC: IPC minutes](/CCFS/Mar2022Meeting/cc-ipc-minutes.docx)
 
-* [CC: Corey Holmes resolution](/CCFS/Mar2022Meeting/cc-XXX)
+* [CC: Corey Holmes resolution](/CCFS/Mar2022Meeting/cc-holmes-resolution.docx)
