@@ -1,6 +1,6 @@
-# Notes from ByLaws meeting of March 16, 2022
+# Notes from the By Laws Committee meeting of March 16, 2022
 
-* Reviewed of current draft
+* Reviewed current draft changes (from 11/2019)
 
 Prior changes were accepted, subject to future modifications
 
