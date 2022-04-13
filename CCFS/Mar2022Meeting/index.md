@@ -12,6 +12,7 @@ Faculty Senate to go first.
 
 * [FS: Agenda](/CCFS/Mar2022Meeting/fs-agenda.docx)
 * [FS: Minutes](/CCFS/Mar2022Meeting/fs-draft-minutes.docx)
+* [FS: Chairs report](fs-chair.docx)
 * [FS: Curriculum](/CCFS/Mar2022Meeting/fs-curriculum.docx)
 
 
