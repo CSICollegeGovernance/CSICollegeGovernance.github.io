@@ -14,7 +14,7 @@ Faculty Senate to go first.
 * [FS: Minutes](fs-draft-minutes.docx)
 * [FS: Chairs report](fs-chair.docx)
 * [FS: Curriculum](fs-curriculum.docx)
-
+* [FS: FGL letter](fs-FGL-letter-grading-policy)
 
 ## College Council
 
