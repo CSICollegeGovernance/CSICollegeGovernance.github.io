@@ -16,6 +16,7 @@ Faculty Senate to go first.
 * [FS: Curriculum](fs-curriculum.docx)
 * [FS: FGL letter](fs-FGL-letter-grading-policy)
 * [FS: UFS CRT Resolution](ufs-crt.docx)
+* [FS: Course and Standing policy on excused absences](fs-course-standing-policy.docx)
 
 ## College Council
 
