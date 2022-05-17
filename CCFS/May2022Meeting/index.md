@@ -13,6 +13,7 @@ https://zoom.us/j/92017795276
 * [CC: Chair's report](./cc-chair-report)
 * [CC: IPC minutes](./cc-ipc-minutes.docx)
 * [CC: Budget Committee Notes](./cc-budget-notes)
+* [CC: Bylaws Committee Notes](./cc-bylaws-notes)
 
 
 ## Faculty Senate
