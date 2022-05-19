@@ -11,7 +11,7 @@ https://zoom.us/j/92017795276
 * [CC: Agenda](./cc-agenda.docx)
 * [CC: Minutes](./cc-draft-minutes.docx)
 * [CC: Chair's report](./cc-chair-report)
-* [CC: IPC minutes](./cc-ipc-minutes.docx)
+* [CC: HEO Steering Committee](./heo-appreciation.docx)
 * [CC: Budget Committee Notes](./cc-budget-notes)
 * [CC: Bylaws Committee Notes](./cc-bylaws-notes)
 
