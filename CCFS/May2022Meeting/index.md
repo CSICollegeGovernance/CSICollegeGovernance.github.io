@@ -14,6 +14,7 @@ https://zoom.us/j/92017795276
 * [CC: HEO Steering Committee](./heo-appreciation.docx)
 * [CC: Budget Committee Notes](./cc-budget-notes)
 * [CC: Bylaws Committee Notes](./cc-bylaws-notes)
+* [CC: Presentation by AVP Kim Williams Esq.](https://cuny907-my.sharepoint.com/personal/kim_williams44_login_cuny_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fkim%5Fwilliams44%5Flogin%5Fcuny%5Fedu%2FDocuments%2FKW%20POWERPOINT2022%2Ekey&parent=%2Fpersonal%2Fkim%5Fwilliams44%5Flogin%5Fcuny%5Fedu%2FDocuments&ga=1)
 
 
 ## Faculty Senate
