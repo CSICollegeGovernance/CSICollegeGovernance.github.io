@@ -14,7 +14,7 @@ Meetings of the College Council and Faculty Senate
 * [April 2021](/CCFS/Apr21Meeting)
 * [March 2021; Special meeting on governance crisis](/CCFS/Mar-SpecialMeeting)
 * [March 2021](/CCFS/Mar21Meeting)
-* [February 2021](/CCFS/FebMeeting-2021)
+* [February 2021](/CCFS/Feb21Meeting)
 * [December 2020](/CCFS/DecMeeting)
 * [November 2020](/CCFS/NovMeeting)
 * [October 2020](/CCFS/OctMeeting)
